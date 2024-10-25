@@ -1,0 +1,32 @@
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.exe
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.deps.json
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.dll
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.pdb
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.Form1.resources
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.dll
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\refint\MeuBlocoDeNotas.dll
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.pdb
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\carlos\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\ref\MeuBlocoDeNotas.dll
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.exe
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.deps.json
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.runtimeconfig.json
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.dll
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\bin\Debug\net8.0-windows\MeuBlocoDeNotas.pdb
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.Form1.resources
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.AssemblyInfo.cs
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.dll
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\refint\MeuBlocoDeNotas.dll
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.pdb
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\MeuBlocoDeNotas.genruntimeconfig.cache
+C:\Users\aluno.cad\Downloads\Forms-main\Forms-main\Bloco de notas\MeuBlocoDeNotas\obj\Debug\net8.0-windows\ref\MeuBlocoDeNotas.dll
